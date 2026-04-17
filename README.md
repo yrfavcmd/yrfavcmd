@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, Its C.M.D here!
 
-<!--
-**yrfavcmd/yrfavcmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **Miva Open University**  
+💻 Tech Enthusiast | Aspiring Security Software Engineer  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔐 Interested in **Security** and **Software Engineering**
+- 🤖 Curious about **Robotics Engineering**
+- 🌍 I follow topics in **Economics, Healthcare & Public Policy**
+- 🧠 Currently learning and building projects to improve my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Languages: Python, JavaScript, C (Learning)
+
+Tools: Git, GitHub, VS Code
+
+Backend: Node.js (learning), Flask (learning)
+
+Database: MongoDB, MySQL.
